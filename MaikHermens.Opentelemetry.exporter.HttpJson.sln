@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaikHermens.Opentelemetry.exporter.HttpJson", "src\MaikHermens.Opentelemetry.exporter.HttpJson.csproj", "{EA20F66E-8CBA-FB4B-3838-1E28BF3C478D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaikHermens.Opentelemetry.exporter.HttpJson.Demo", "Demo\MaikHermens.Opentelemetry.exporter.HttpJson.Demo\MaikHermens.Opentelemetry.exporter.HttpJson.Demo.csproj", "{C0579EE2-39F6-8F94-6340-C1DF1AD8561D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA20F66E-8CBA-FB4B-3838-1E28BF3C478D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA20F66E-8CBA-FB4B-3838-1E28BF3C478D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA20F66E-8CBA-FB4B-3838-1E28BF3C478D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA20F66E-8CBA-FB4B-3838-1E28BF3C478D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0579EE2-39F6-8F94-6340-C1DF1AD8561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0579EE2-39F6-8F94-6340-C1DF1AD8561D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0579EE2-39F6-8F94-6340-C1DF1AD8561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0579EE2-39F6-8F94-6340-C1DF1AD8561D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00E8CD0-DDBC-4431-9A26-A2C9B918C347}
+	EndGlobalSection
+EndGlobal

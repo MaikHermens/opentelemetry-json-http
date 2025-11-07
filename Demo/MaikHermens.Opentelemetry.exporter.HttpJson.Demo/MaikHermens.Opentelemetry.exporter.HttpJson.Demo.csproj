@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MaikHermens.Opentelemetry.exporter.HttpJson.csproj" />
+    <ProjectReference Include="..\..\src\MaikHermens.Opentelemetry.exporter.HttpJson.csproj" />
   </ItemGroup>
 
 </Project>
