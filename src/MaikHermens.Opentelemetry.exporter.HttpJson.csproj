@@ -8,7 +8,7 @@
     
     <!-- Required for NuGet publishing -->
     <PackageId>MaikHermens.Opentelemetry.Exporter.HttpJson</PackageId>
-    <Version>0.0.1</Version>
+    <Version>0.0.1-preview</Version>
     <Authors>Maik Hermens</Authors>
     <Description>OpenTelemetry HTTP JSON exporter for .NET applications</Description>
     

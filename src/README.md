@@ -1,6 +1,7 @@
-# ActivityJsonMapper - OpenTelemetry Activity to OTLP JSON Mapper
+# Dotnet Opentelemetry Exporter using the HTTP JSON format
 
 This project provides a mapper to convert .NET `Activity` objects to OTLP (OpenTelemetry Protocol) JSON format for HTTP export.
+This will allow you to send telemetry data to backends that only support OTLP over HTTP in JSON format without protobuf.
 
 ## Features
 
@@ -9,13 +10,6 @@ This project provides a mapper to convert .NET `Activity` objects to OTLP (OpenT
 - **Batch Processing**: Supports both single activity and batch conversion
 - **Type Safety**: Properly handles different attribute value types
 - **Standards Compliant**: Follows OTLP JSON specification
-
-## Classes
-
-### ActivityJsonMapper
-
-The main mapper class that provides static methods for converting Activity objects to OTLP format.
-
 
 ### OTLP JSON Structure
 
