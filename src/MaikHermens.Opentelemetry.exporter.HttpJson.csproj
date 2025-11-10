@@ -11,6 +11,7 @@
     <Version>0.0.1-preview</Version>
     <Authors>Maik Hermens</Authors>
     <Description>OpenTelemetry HTTP JSON exporter for .NET applications</Description>
+    <Copyright>Copyright © 2025 Maik Hermens</Copyright>
     
     <PackageTags>opentelemetry;exporter;http;json;telemetry;observability</PackageTags>
     <PackageProjectUrl>https://github.com/MaikHermens/opentelemetry-json-http</PackageProjectUrl>
